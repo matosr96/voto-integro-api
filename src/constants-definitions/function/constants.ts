@@ -2,5 +2,6 @@ export enum Collection {
   USERS = "users",
   ZONES = "zones",
   LEADERS = "leaders",
-  VOTERS = "voters"
+  VOTERS = "voters",
+  COUNCILORS = "councilors",
 }

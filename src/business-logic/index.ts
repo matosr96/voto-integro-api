@@ -1,3 +1,4 @@
+export * from './councilor';
 export * from './index';
 export * from './leader';
 export * from './user';
